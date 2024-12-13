@@ -50,7 +50,9 @@ nav {
     font-family: "Open Sans";
     font-size: 16px;
     font-weight: 600;
+}
 
+.a_H {
     color: #fff;
 }
 
@@ -266,17 +268,19 @@ section {
 
 footer {
     color: #fff;
-    
+
 
     padding: 40px 80px;
     background-color: #111d30;
 }
-.footer{
+
+.footer {
     width: 1120px;
     margin: auto;
     display: flex;
     justify-content: space-between;
 }
+
 #D_F {
     margin-top: 20px;
 }
@@ -318,7 +322,9 @@ footer {
     margin-bottom: 20px;
     opacity: 60%;
 }
-
+.a_F{
+    color: #fff;
+}
 .li_F:hover {
     opacity: 100%;
     color: #fff;
